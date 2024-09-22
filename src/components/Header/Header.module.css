@@ -1,0 +1,44 @@
+.Header{
+    grid-area: h;
+    background-color: #78c2ff;
+    display: flex;
+    justify-content: flex-start;
+
+
+  
+  }
+  .Header__img{
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+  }
+
+  .search{
+    font-family: serif;
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+    font-size: 20px;
+
+  }
+
+  .btn{
+    color: rgb(34, 47, 58);
+    font-size: 20px;
+    margin: 10px 20px;
+    cursor: pointer;
+    text-decoration: none;
+
+  }
+
+  .loginBlock{
+    color: aliceblue;
+    font-size: 20px;
+    margin: 10px 20px;
+    cursor: pointer;
+  }
+
+  .loginBlock a{
+    color: aliceblue;
+    text-decoration: none;
+  }

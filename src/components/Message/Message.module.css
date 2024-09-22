@@ -1,0 +1,94 @@
+.content {
+    display: flex;
+    flex-direction: row;
+    background: #ffffff;
+
+}
+
+.dialogs {
+    min-width: 200px;
+}
+
+.defaultLinkClassNameDialog {
+    cursor: pointer;
+    margin: 10px;
+    line-height: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.activeLinkClassNameDialog{
+    color: #6f60fa;
+    font-size: 24px;
+}
+
+
+
+.active{
+    color: rgb(0, 89, 255);
+    font-size: 24px;
+    
+}
+
+
+
+.contacts {
+    margin: 20px 0px;
+    display: grid;
+    grid-template-areas:
+        "i d"
+        "n d";
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 1fr 10fr;
+    grid-gap: 10px;
+}
+
+.img{
+    grid-area: i;
+    max-width: 100px;
+    border-radius: 50%;
+    
+}
+.contacts__name{
+    grid-area: n;
+    margin: 35px 35px;
+}
+
+.contacts__dialog{
+    grid-area: d;
+    border: 2px solid #4264b3;
+    border-radius: 3px;
+    max-width: 450px;
+    max-height: 50px;
+    justify-items: start;
+    align-items: start;
+    margin: 20px 0px;
+}
+
+.text{
+    margin: 10px;
+    color: rgb(5, 91, 250);
+}
+
+.formNewPost{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.myMassege{
+    margin: 10px;
+    color: rgb(5, 91, 250);
+    font-size: 16px;
+    width: 400px;
+    height: 50px;
+    margin: 0 200px 0 0 ;
+}
+
+.btnMyMassege{
+    max-width: 100px;
+    max-height: 50px;
+    cursor: pointer;
+    margin: 0 0 0 0px;
+}
+

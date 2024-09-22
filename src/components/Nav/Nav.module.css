@@ -1,0 +1,20 @@
+.nav{
+  grid-area: n;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.activeLinkClassName{
+  color:#6f60fa;
+  font-size: 24px;
+  text-decoration: underline;
+}
+
+.defaultLinkClassName{
+  align-self: center;
+  text-decoration: none;
+  color:#000000;
+  gap:10px;
+}

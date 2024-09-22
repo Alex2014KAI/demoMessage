@@ -1,0 +1,29 @@
+.wrapper{
+    /* border: 2px solid #bff3fa; */
+    width: 100%;
+}
+
+textarea.error{
+    border: 2px solid #ff3838;
+    text-align: center;
+}
+
+.inputForm{
+    text-align: center;
+    margin: 0 30%;
+}
+
+input.error{
+    border: 2px solid #ff3838;
+    text-align: center;
+}
+
+span.error{
+    color: red;
+}
+
+.formSummaryError{
+    border: 2px solid #ff3838;
+    padding: 5px;
+    color: #f19595;
+}

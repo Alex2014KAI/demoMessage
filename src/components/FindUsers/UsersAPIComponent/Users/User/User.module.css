@@ -1,0 +1,83 @@
+.cartUser{
+    margin: 10px 0;
+    /* width: 800px; */
+    display: grid;
+
+    grid-template-areas: 
+  "ava name"
+  "ava dataPerson"
+  "ava status"
+  "followed followed";
+  /* grid-template-rows: 50px 2fr; */
+  grid-template-rows: 2fr 2fr auto;
+  /* grid-template-columns: 160px 10fr; */
+  grid-template-columns: 160px 10fr;
+  grid-gap: 1px;
+  background: #f9feff;
+
+}
+
+.avatar{
+    grid-area: ava;
+
+}
+
+.img{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    margin: 20px 30px;
+}
+
+.name{
+    grid-area: name;
+}
+
+.on_of_Line{
+    font-style: italic;
+}
+.dataPerson{
+    grid-area: dataPerson;
+}
+
+
+.dataPerson_dateOfSiteVisit{
+
+}
+
+.dataPerson_location{
+
+}
+
+.dataPerson_on_ofLine{
+
+}
+
+
+.status{
+    grid-area: status;
+}
+
+.followed{
+    border: 2px solid #42aef7;
+    width: 100px;
+    height: 25px;
+    cursor: pointer;
+    grid-area: followed;
+    margin: 0px 30px;
+}
+.unFollowed{
+    border: 2px solid #b5e4ff;
+    width: 100px;
+    height: 25px;
+    cursor: pointer;
+    grid-area: followed;
+    margin: 0px 30px;
+}
+
+.preloaderFollowing{
+    width: 50px;
+    height: 50px;
+    grid-area: followed;
+    margin: 0px 50px;
+}

@@ -1,0 +1,44 @@
+.content__img{
+    height: 150px;
+    width: 100%;
+  }
+  
+  .cart{
+    display: flex;
+    gap: 10px;
+  }
+  
+  .cart__img{
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 50%;
+  }
+  
+  .cart__content{
+    
+  }
+
+  .Name{
+    font-size: 50px;
+
+  }
+
+  .dataBritch{
+
+  }
+
+.City{
+
+}
+
+.Education{
+
+}
+
+.WebSite{
+
+}
+
+.status{
+  margin: 30px 0 0 10px;
+}

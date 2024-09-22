@@ -1,0 +1,38 @@
+.postWrapper{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.Post{
+    font-size: 16px;
+    margin: 10px;
+}
+
+.imageLike{
+    max-width: 40px;
+    max-height: 40px;
+    cursor: pointer;
+    
+    
+}
+
+
+
+.imageLike__img{
+    max-width: 40px;
+    max-height: 40px;
+    margin: 2px;
+    border-radius: 50%;
+    transition: all 800ms;
+}
+
+.imageLike__img:hover{
+    background: #f8d4cf;
+}
+
+.cauntLike{
+    font-size: 15px;
+}

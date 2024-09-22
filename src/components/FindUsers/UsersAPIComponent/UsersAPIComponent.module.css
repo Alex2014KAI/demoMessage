@@ -1,0 +1,40 @@
+.header{
+    font-size: 20px;
+    font-weight: 400;
+    margin: 5px;
+}
+
+.page{
+    background: #ecf2f6;
+}
+
+.pageNumber{
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+.pageNumber__activ{
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+.users{
+    margin: 0 0 0 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.futer__btn{
+    border: 2px solid #42aef7;
+    width: 300px;
+    height: 25px;
+    cursor: pointer;
+    grid-area: followed;
+    margin: 0px 400px 20px;
+    transition: all 200ms;
+}
+
+.futer__btn:hover{
+    border: 2px solid #42aef7;
+    background: #f7f7f7;
+}

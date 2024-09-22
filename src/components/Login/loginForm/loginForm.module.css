@@ -1,0 +1,60 @@
+.Header{
+    margin: 5% 5%;
+    text-align: center;
+}
+
+.contetnt{
+    border: 1px solid #eafafd;
+    margin: 3% 10%;
+}
+
+.contetntData{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.telEmail{
+    text-align: center;
+    margin: 2% 0;
+
+}
+
+.inputTelEmail{
+    width: 300px;
+    text-align: center;
+    margin: 0 25%;
+}
+
+.pasword{
+    text-align: center;
+    margin: 2% 0;
+}
+
+.inputPasword{
+    width: 300px;
+    text-align: center;
+    margin: 0% 25%;
+}
+
+.btnInput{
+    width: 308px;
+    text-align: center;
+    margin: 9% 25%;
+}
+
+.passwordRecovery{
+    text-align: center;
+    margin: 2% 0;
+}
+
+.contentCheckbox{
+    display: flex;
+}
+
+.formSummaryError{
+    border: 2px solid #ff3838;
+    padding: 5px;
+    color: #f19595;
+}
