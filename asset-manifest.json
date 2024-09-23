@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "/demoMessage/static/css/main.1c6119d7.css",
-    "main.js": "/demoMessage/static/js/main.7912ad08.js",
+    "main.js": "/demoMessage/static/js/main.6d8b7f56.js",
     "static/js/974.9569f0d2.chunk.js": "/demoMessage/static/js/974.9569f0d2.chunk.js",
     "static/css/684.87ff2360.chunk.css": "/demoMessage/static/css/684.87ff2360.chunk.css",
     "static/js/684.7e12af0c.chunk.js": "/demoMessage/static/js/684.7e12af0c.chunk.js",
     "static/js/453.8d74b2d4.chunk.js": "/demoMessage/static/js/453.8d74b2d4.chunk.js",
+    "static/media/logo.ico": "/demoMessage/static/media/logo.b7543bd5b1b417ace0df.ico",
+    "static/media/MyAvatar.jpg": "/demoMessage/static/media/MyAvatar.075045cae0933cac9b90.jpg",
+    "static/media/AvatarNina.webp": "/demoMessage/static/media/AvatarNina.e45a61cd69e73f27db0a.webp",
     "static/media/preloadreRU.gif": "/demoMessage/static/media/preloadreRU.b811fd4fe1db954aeade.gif",
     "static/media/preloaderFollowing.gif": "/demoMessage/static/media/preloaderFollowing.a6a3a82841044e500ad4.gif",
     "static/media/logo.svg": "/demoMessage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/heart-icon.svg": "/demoMessage/static/media/heart-icon.03062d78e130e7c22b21f95c67535e1e.svg",
     "static/media/preloader.svg": "/demoMessage/static/media/preloader.7161427d593654584620342c46c94bf4.svg",
     "index.html": "/demoMessage/index.html",
     "static/media/arrowLeft.svg": "/demoMessage/static/media/arrowLeft.7c4b1b3e38748724be10ff53d7ea3330.svg",
     "static/media/arrow-right.svg": "/demoMessage/static/media/arrow-right.a4ced1bb3b2c32d57dee9238928bafb2.svg",
     "main.1c6119d7.css.map": "/demoMessage/static/css/main.1c6119d7.css.map",
-    "main.7912ad08.js.map": "/demoMessage/static/js/main.7912ad08.js.map",
+    "main.6d8b7f56.js.map": "/demoMessage/static/js/main.6d8b7f56.js.map",
     "974.9569f0d2.chunk.js.map": "/demoMessage/static/js/974.9569f0d2.chunk.js.map",
     "684.87ff2360.chunk.css.map": "/demoMessage/static/css/684.87ff2360.chunk.css.map",
     "684.7e12af0c.chunk.js.map": "/demoMessage/static/js/684.7e12af0c.chunk.js.map",
@@ -22,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.1c6119d7.css",
-    "static/js/main.7912ad08.js"
+    "static/js/main.6d8b7f56.js"
   ]
 }
