@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_one=self.webpackChunkreact_one||[]).push([[974],{1974:(e,c,s)=>{s.r(c),s.d(c,{default:()=>n});s(5043);var a=s(579);const n=e=>(0,a.jsx)("div",{children:"DUBUGGING - \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u043e\u0442\u043b\u0430\u0434\u043a\u0438"})}}]);
-//# sourceMappingURL=974.9569f0d2.chunk.js.map
